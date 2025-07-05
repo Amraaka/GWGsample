@@ -21,4 +21,3 @@ def print_disk_usage():
 
 if __name__ == "__main__":
     print_cpu_usage()
-    print_disk_usage()
